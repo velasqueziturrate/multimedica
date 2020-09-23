@@ -1,0 +1,57 @@
+/* Navbar */
+.navbar {
+  height: 8rem;
+  top: 0;
+  z-index: 500;
+  width: 100%;
+  color: #FFFFFF;
+  font-size: 0.8em;
+  text-transform: uppercase;
+  background: #00C87A;
+  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #77E68A, #38ef7d, #00C87A);
+  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #77E68A, #38ef7d, #00C87A);
+  /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  transition: background 0.3s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 0;
+  padding-bottom: 0;
+  box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.3),
+    0px 0px 20px 0px rgba(0, 0, 0, 0.3);
+}
+
+/* Footer */
+.footer {
+  height: 2rem;
+  position: fixed;
+  bottom: 0;
+  font-size: 0.8em;
+  width: 100%;
+  margin-top: 2rem;
+  color: #FFFFFF;
+  background-color: rgba(0, 0, 0, 0.507);
+  box-shadow: inset 0 0 7px rgba(0, 0, 0, 0.3),
+    0px 0px 20px 0px rgba(0, 0, 0, 0.3);
+}
+
+/* Home */
+.presentation {
+  margin-top: 0rem;
+}
+
+/* Links */
+.link{
+  font-size: 1.5rem;
+  padding: 1rem;
+}
+
+/* Prueba */
+.pdf {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  width: 85%;
+  height: 50rem;
+}
