@@ -7,7 +7,7 @@ export default function Ref1() {
                 <h1 className="text-center">BASE DE PARED PARA MONITOR BENEVIEW T5</h1>
             </div>
             <div className="row justify-content-center">
-                <embed src="https://firebasestorage.googleapis.com/v0/b/multimedica-c8e4c.appspot.com/o/DANIEL%20VEL%C3%81SQUEZ%20ITURRATE.pdf?alt=media&token=cd61e7ef-c39c-4585-9b4e-807ac93fb959" type="application/pdf" className="pdf" />
+                <embed src="https://firebasestorage.googleapis.com/v0/b/suministros-multimedica.appspot.com/o/0010-30-43040.pdf?alt=media&token=84b79255-6584-46ff-af8f-5a5f74e49934" type="application/pdf" className="pdf" />
             </div>
         </div>
     );
