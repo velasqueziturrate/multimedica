@@ -1,6 +1,6 @@
 import React from 'react';
 
-export default function Ref1() {
+export default function Ref96() {
     return (
         <div className="presentation container">
             <div className="row justify-content-center text-center container">
