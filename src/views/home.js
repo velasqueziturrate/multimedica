@@ -8,6 +8,7 @@ export default function Home() {
                 <h3 className="text-left">Ala Sur</h3>
             </div>
             <div className="row text-center">
+                {/* 1 al 10 */}
                 <div className="col-sm-12 col-md-6 col-lg-4 division">
                     <a className="link" href="/ref00103043040">BASE DE PARED PARA MONITOR BENEVIEW T5</a>
                 </div>
@@ -38,6 +39,7 @@ export default function Home() {
                 <div className="col-sm-12 col-md-6 col-lg-4 division">
                     <a className="link" href="/refjwn600210">BASE DE PARED CLAYTON PARA MONITOR</a>
                 </div>
+                {/* 11 al 20 */}
                 <div className="col-sm-12 col-md-6 col-lg-4 division">
                     <a className="link" href="/refSNRfrontalesazules">FRONTALES AZULES DE 3,6 Y 9 PULGADAS</a>
                 </div>
@@ -68,6 +70,7 @@ export default function Home() {
                 <div className="col-sm-12 col-md-6 col-lg-4 division">
                     <a className="link" href="/refSNRbaseventiladorsechrist">BASE RODANTE PARA VENTILADOR SECHRIST</a>
                 </div>
+                {/* 21 al 30 */}
                 <div className="col-sm-12 col-md-6 col-lg-4 division">
                     <a className="link" href="/refSNRbaseventiladorversamed">BASE PARA VENTILADOR VERSAMED</a>
                 </div>
@@ -98,18 +101,17 @@ export default function Home() {
                 <div className="col-sm-12 col-md-6 col-lg-4 division">
                     <a className="link" href="/refBF720">ACCESORIOS DE ORTOPEDIA</a>
                 </div>
+                {/* 31 al 40 */}
                 <div className="col-sm-12 col-md-6 col-lg-4 division">
                     <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
                 </div>
-
-                {/* A partir del 32 */}
-
                 <div className="col-sm-12 col-md-6 col-lg-4 division">
                     <a className="link" href="/refBF00065">ACCESORIO DE MESA QUIRURGICA PERINEAL POST-PAD</a>
                 </div>
                 <div className="col-sm-12 col-md-6 col-lg-4 division">
                     <a className="link" href="/ref6509BF039">CORREA APOYA BRAZOS</a>
                 </div>
+                {/* Hasta aqui listo */}
                 <div className="col-sm-12 col-md-6 col-lg-4 division">
                     <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
                 </div>
@@ -119,8 +121,189 @@ export default function Home() {
                 <div className="col-sm-12 col-md-6 col-lg-4 division">
                     <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
                 </div> 
-
-
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                {/* 41 al 50 */}
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                {/* 51 al 60 */}
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                {/* 61 al 70 */}
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                {/* 71 al 80 */}
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                {/* 81 al 90 */}
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                {/* 91 al 95 */}
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
             </div>
         </div>
     );
