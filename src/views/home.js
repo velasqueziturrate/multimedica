@@ -101,6 +101,27 @@ export default function Home() {
                 <div className="col-sm-12 col-md-6 col-lg-4 division">
                     <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
                 </div>
+
+
+                {/* A partir del 32 */}
+
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF00065">ACCESORIO DE MESA QUIRURGICA PERINEAL POST-PAD</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/ref6509BF039">CORREA APOYA BRAZOS</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div>
+                <div className="col-sm-12 col-md-6 col-lg-4 division">
+                    <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
+                </div> 
+
+
             </div>
         </div>
     );
