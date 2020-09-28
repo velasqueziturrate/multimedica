@@ -102,7 +102,6 @@ export default function Home() {
                     <a className="link" href="/refBF436">COLCHONETA PARA EXTENSIÓN DE MESA PARA MICROCIRUGÍA DE MANO</a>
                 </div>
 
-
                 {/* A partir del 32 */}
 
                 <div className="col-sm-12 col-md-6 col-lg-4 division">
