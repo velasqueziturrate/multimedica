@@ -32,7 +32,7 @@ import Ref28 from '../views/pdf/28';
 import Ref29 from '../views/pdf/29';
 import Ref30 from '../views/pdf/30';
 import Ref31 from '../views/pdf/31';
-// import Ref32 from '../views/pdf/32';
+import Ref32 from '../views/pdf/32';
 // import Ref33 from '../views/pdf/33';
 // import Ref34 from '../views/pdf/34';
 // import Ref35 from '../views/pdf/35';
