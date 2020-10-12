@@ -33,70 +33,69 @@ import Ref29 from '../views/pdf/29';
 import Ref30 from '../views/pdf/30';
 import Ref31 from '../views/pdf/31';
 import Ref32 from '../views/pdf/32';
-// import Ref33 from '../views/pdf/33';
-// import Ref34 from '../views/pdf/34';
-// import Ref35 from '../views/pdf/35';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
-// import Ref1 from '../views/pdf/1';
+import Ref33 from '../views/pdf/33';
+import Ref34 from '../views/pdf/34';
+import Ref35 from '../views/pdf/35';
+import Ref36 from '../views/pdf/36';
+import Ref37 from '../views/pdf/37';
+import Ref38 from '../views/pdf/38';
+import Ref39 from '../views/pdf/39';
+import Ref40 from '../views/pdf/40';
+import Ref41 from '../views/pdf/41';
+import Ref42 from '../views/pdf/42';
+import Ref43 from '../views/pdf/43';
+import Ref44 from '../views/pdf/44';
+import Ref45 from '../views/pdf/45';
+import Ref46 from '../views/pdf/46';
+import Ref47 from '../views/pdf/47';
+import Ref48 from '../views/pdf/48';
+import Ref49 from '../views/pdf/49';
+import Ref50 from '../views/pdf/50';
+import Ref51 from '../views/pdf/51';
+import Ref52 from '../views/pdf/52';
+import Ref53 from '../views/pdf/53';
+import Ref54 from '../views/pdf/54';
+import Ref55 from '../views/pdf/55';
+import Ref56 from '../views/pdf/56';
+import Ref57 from '../views/pdf/57';
+import Ref58 from '../views/pdf/58';
+import Ref59 from '../views/pdf/59';
+import Ref60 from '../views/pdf/60';
+import Ref61 from '../views/pdf/61';
+import Ref62 from '../views/pdf/62';
+import Ref63 from '../views/pdf/63';
+import Ref64 from '../views/pdf/64';
+import Ref65 from '../views/pdf/65';
+import Ref66 from '../views/pdf/66';
+import Ref67 from '../views/pdf/67';
+import Ref68 from '../views/pdf/68';
+import Ref69 from '../views/pdf/69';
+import Ref70 from '../views/pdf/70';
+import Ref71 from '../views/pdf/71';
+import Ref72 from '../views/pdf/72';
+import Ref73 from '../views/pdf/73';
+import Ref74 from '../views/pdf/74';
+import Ref75 from '../views/pdf/75';
+import Ref76 from '../views/pdf/76';
+import Ref77 from '../views/pdf/77';
+import Ref78 from '../views/pdf/78';
+import Ref79 from '../views/pdf/79';
+import Ref80 from '../views/pdf/80';
+import Ref81 from '../views/pdf/81';
+import Ref82 from '../views/pdf/82';
+import Ref83 from '../views/pdf/83';
+import Ref84 from '../views/pdf/84';
+import Ref85 from '../views/pdf/85';
+import Ref86 from '../views/pdf/86';
+import Ref87 from '../views/pdf/87';
+import Ref88 from '../views/pdf/88';
+import Ref89 from '../views/pdf/89';
+import Ref90 from '../views/pdf/90';
+import Ref91 from '../views/pdf/91';
+import Ref92 from '../views/pdf/92';
+import Ref93 from '../views/pdf/93';
+import Ref94 from '../views/pdf/94';
+import Ref95 from '../views/pdf/95';
 
 export default function Routes() {
     const scrollTop = (Component, props) => {
@@ -139,71 +138,69 @@ export default function Routes() {
         <Route path="/refBF720" render={props => scrollTop(Ref30, props)}/>
         <Route path="/refBF436" render={props => scrollTop(Ref31, props)}/>
         <Route path="/refBF00065" render={props => scrollTop(Ref32, props)}/>
-        {/* <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/>
-        <Route path="/ref00103043040" render={props => scrollTop(Ref1, props)}/> */}
-        
+        <Route path="/ref6509BF039" render={props => scrollTop(Ref33, props)}/>
+        <Route path="/refTAB376" render={props => scrollTop(Ref34, props)}/>
+        <Route path="/refBF0003" render={props => scrollTop(Ref35, props)}/>
+        <Route path="/refBF464" render={props => scrollTop(Ref36, props)}/>
+        <Route path="/refBF483" render={props => scrollTop(Ref37, props)}/>
+        <Route path="/refBF454" render={props => scrollTop(Ref38, props)}/>
+        <Route path="/refBF485" render={props => scrollTop(Ref39, props)}/>
+        <Route path="/refSNRcolchonetamesaquirurgica" render={props => scrollTop(Ref40, props)}/>
+        <Route path="/ref135081091" render={props => scrollTop(Ref41, props)}/>
+        <Route path="/ref6509BF008" render={props => scrollTop(Ref42, props)}/>
+        <Route path="/refBF305" render={props => scrollTop(Ref43, props)}/>
+        <Route path="/ref134469383" render={props => scrollTop(Ref44, props)}/>
+        <Route path="/refBF00066" render={props => scrollTop(Ref45, props)}/>
+        <Route path="/refBF185" render={props => scrollTop(Ref46, props)}/>
+        <Route path="/refACS2004085" render={props => scrollTop(Ref47, props)}/>
+        <Route path="/ref0910900" render={props => scrollTop(Ref48, props)}/>
+        <Route path="/refP150832647" render={props => scrollTop(Ref49, props)}/>
+        <Route path="/refP080524091" render={props => scrollTop(Ref50, props)}/>
+        <Route path="/refBF552" render={props => scrollTop(Ref51, props)}/>
+        <Route path="/refP097031091" render={props => scrollTop(Ref52, props)}/>
+        <Route path="/refBF00023" render={props => scrollTop(Ref53, props)}/>
+        <Route path="/refP74C" render={props => scrollTop(Ref54, props)}/>
+        <Route path="/ref1836CHSELF" render={props => scrollTop(Ref55, props)}/>
+        <Route path="/refSNRcuatrocestassteris" render={props => scrollTop(Ref56, props)}/>
+        <Route path="/refBF45" render={props => scrollTop(Ref57, props)}/>
+        <Route path="/refSNRultrasonicadeconfianza" render={props => scrollTop(Ref58, props)}/>
+        <Route path="/refR29005" render={props => scrollTop(Ref59, props)}/>
+        <Route path="/refR19010" render={props => scrollTop(Ref60, props)}/>
+        <Route path="/refR29010" render={props => scrollTop(Ref61, props)}/>
+        <Route path="/refR1110" render={props => scrollTop(Ref62, props)}/>
+        <Route path="/refR61207" render={props => scrollTop(Ref63, props)}/>
+        <Route path="/refR19500" render={props => scrollTop(Ref64, props)}/>
+        <Route path="/refR29007" render={props => scrollTop(Ref65, props)}/>
+        <Route path="/refR19007" render={props => scrollTop(Ref66, props)}/>
+        <Route path="/refSNRprotectorescamassurecheck" render={props => scrollTop(Ref67, props)}/>
+        <Route path="/refP3010FB01" render={props => scrollTop(Ref68, props)}/>
+        <Route path="/refSNRcolchonetaoftalmologicanegra" render={props => scrollTop(Ref69, props)}/>
+        <Route path="/refBF214" render={props => scrollTop(Ref70, props)}/>
+        <Route path="/refP150830178" render={props => scrollTop(Ref71, props)}/>
+        <Route path="/ref6501BF710" render={props => scrollTop(Ref72, props)}/>
+        <Route path="/ref117009361" render={props => scrollTop(Ref73, props)}/>
+        <Route path="/refHRO12710A" render={props => scrollTop(Ref74, props)}/>
+        <Route path="/refP2922CO100" render={props => scrollTop(Ref75, props)}/>
+        <Route path="/ref133806933" render={props => scrollTop(Ref76, props)}/>
+        <Route path="/refSNRsoportepiesmesaquirurgica" render={props => scrollTop(Ref77, props)}/>
+        <Route path="/refSNRalmohadillapierneraMQ" render={props => scrollTop(Ref78, props)}/>
+        <Route path="/refP3705A" render={props => scrollTop(Ref79, props)}/>
+        <Route path="/refP158137001" render={props => scrollTop(Ref80, props)}/>
+        <Route path="/refP056397870" render={props => scrollTop(Ref81, props)}/>
+        <Route path="/refSNRplanchalamparalc500" render={props => scrollTop(Ref82, props)}/>
+        <Route path="/refP129389095" render={props => scrollTop(Ref83, props)}/>
+        <Route path="/ref192521D" render={props => scrollTop(Ref84, props)}/>
+        <Route path="/ref1920868D" render={props => scrollTop(Ref85, props)}/>
+        <Route path="/ref1915465D" render={props => scrollTop(Ref86, props)}/>
+        <Route path="/ref192521D" render={props => scrollTop(Ref87, props)}/>
+        <Route path="/refB129388085" render={props => scrollTop(Ref88, props)}/>
+        <Route path="/ref1920868D" render={props => scrollTop(Ref89, props)}/>
+        <Route path="/refSNRseparadorescoloramarillo" render={props => scrollTop(Ref90, props)}/>
+        <Route path="/refP129388267" render={props => scrollTop(Ref91, props)}/>
+        <Route path="/refSNRcubiertasparabrazosdelamparas" render={props => scrollTop(Ref92, props)}/>
+        <Route path="/ref1915550D" render={props => scrollTop(Ref93, props)}/>
+        <Route path="/refA97749415P31445" render={props => scrollTop(Ref94, props)}/>
+        <Route path="/ref3080" render={props => scrollTop(Ref95, props)}/>
         <Redirect exact from="/*" to="/home"/>
     </Switch>
     );
