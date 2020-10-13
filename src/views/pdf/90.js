@@ -1,13 +1,13 @@
 import React from 'react';
 
-export default function Ref1() {
+export default function Ref90() {
     return (
         <div className="presentation container">
             <div className="row justify-content-center text-center container">
-                <h1 className="text-center title">BASE DE PARED PARA MONITOR BENEVIEW T5</h1>
+                <h1 className="text-center title">SEPARADORES DE ESTANTERIA PLASTICOS COLOR AMARILLO</h1>
             </div>
             <div className="row justify-content-center">
-                <a href="https://firebasestorage.googleapis.com/v0/b/continental-medica-ca.appspot.com/o/Doc%2F1%2F0010-30-43040.pdf?alt=media&token=c3f33b74-b4d7-4b9c-9866-466e08e77a5e" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a>
+                <a href="https://firebasestorage.googleapis.com/v0/b/continental-medica-ca.appspot.com/o/Doc%2F9%2FrefSNRseparadorescoloramarillo.pdf?alt=media&token=30d4f891-8fe2-49a5-a70d-32a76965e9d3" target="_blank" rel="noopener noreferrer"><i class="fas fa-file-pdf"></i></a>
             </div>
             <div className="row justify-content-center">
                 <p className="quote">Haga clic en el ícono para abrir el PDF en otra ventana</p>
